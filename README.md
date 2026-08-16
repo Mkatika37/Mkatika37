@@ -67,11 +67,5 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mkatika37&show_icons=true&theme=dark&count_private=true)
-
-![Streak](https://streak-stats.demolab.com?user=Mkatika37&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkatika37&layout=compact&theme=dark&langs_count=8&exclude_repo=Mkatika37)
 
