@@ -1,5 +1,13 @@
-# 💫 About Me:
-building production-grade data & AI systems — real-time risk platforms, RAG pipelines, and agentic AI grounded in real-world data<br>data engineering, analytics, and applied AI/ML projects that turn large-scale data into decisions<br>connecting with teams hiring Data Analysts / Data Engineers / AI Engineers — open to work! (Fairfax, VA)<br>advanced LLM orchestration with LangGraph & MCP, and distributed pipelines on Databricks & AWS<br>Python, SQL, PySpark, building data pipelines end-to-end, RAG & agentic AI, and turning messy data into insight<br>I hold 5 Microsoft & AWS certifications — and I love the moment messy raw data finally clicks into a clean answer<br>
+## 🌀 About Me
+
+- 🔭 **Currently building** production-grade data & AI systems — real-time risk platforms, RAG pipelines, and agentic AI grounded in real-world data
+- ⚡ **What I do** — turn large-scale, messy data into decisions, end-to-end: from SQL & PySpark pipelines to RAG-powered AI apps
+- 🎓 **MS in Data Analytics Engineering** @ George Mason University · GPA 3.97
+- 🏆 **5x certified** — Microsoft Fabric & Azure Databricks Data Engineer · AWS Solutions Architect, AI Practitioner & Cloud Practitioner
+- 🌱 **Learning** advanced LLM orchestration (LangGraph, MCP) and pushing distributed pipelines further on Databricks & AWS
+- 💬 **Ask me about** Python, SQL, PySpark, data pipelines, RAG & agentic AI
+- 👀 **Open to work** — Data Analyst / Data Engineer / AI Engineer roles (Fairfax, VA · on-site, hybrid, or remote)
+- ✨ **Fun fact** — I love the moment messy raw data finally clicks into a clean answer
 
 
 # 💻 Tech Stack:
